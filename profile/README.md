@@ -28,7 +28,7 @@
     <tr>
     <td>조상현</td>
     <td>백엔드</td>
-    <td>https://gitdub.com/woogod1031</td>
+    <td>https://github.com/ChoSangHyeon</td>
   </tr>
   <tr>
     <td>문성현</td>

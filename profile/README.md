@@ -23,7 +23,7 @@
     <tr>
     <td>공정용</td>
     <td>백엔드</td>
-    <td>https://gitdub.com/xpecter</td>
+    <td>https://gitdub.com/XPECTER</td>
   </tr>
     <tr>
     <td>조상현</td>

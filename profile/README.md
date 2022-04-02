@@ -1,17 +1,18 @@
+![Group 921](https://user-images.githubusercontent.com/75469212/161385566-8c3c3077-10b9-4314-8526-a20b2b20c5f2.png)
+
 # 서비스 바로가기
+[![큐!](https://user-images.githubusercontent.com/75469212/161385626-4f27e984-73a6-4dab-bd65-26e621277f2e.png)](everyque.com)
 
-[큐!](everyque.com)
 <br>
 <br>
 <br>
 
-# 프로젝트 개요
-
+# ![Group 914](https://user-images.githubusercontent.com/75469212/161385687-89427e8a-f856-42e7-95c4-87de710b9efa.png) 프로젝트 개요
 질 높은 비대면 온라인 수업을 위한 실시간 스트리밍 교육 플랫폼
 <br>
 <br>
 
-# 팀원 소개
+# 팀원 소개 ![Group 915](https://user-images.githubusercontent.com/75469212/161385748-951e7cfb-8949-4610-90cc-4b9f4d3f7109.png)
 
 <table>
   <tr>

@@ -94,7 +94,10 @@
 https://noobpro.shop/api
 
 # ERD
-<details>     
+<details>
+<summary>ERD</summary>
+<div markdown="1">
 ![Copy_of_Untitled_Diagram_(1)](https://user-images.githubusercontent.com/94961333/163540594-855fd9f0-1cd6-4cdb-8088-554057289838.png)
+</div>
 </details>
 # troublehooting

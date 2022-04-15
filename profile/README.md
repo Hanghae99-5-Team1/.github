@@ -88,5 +88,12 @@
 <br>
 
 # 서비스 아키텍쳐
-![서비스 ](https://user-images.githubusercontent.com/75469212/161908137-bfbe31e2-6583-44ad-8d0e-377060646fcd.png)
+![Group 1](https://user-images.githubusercontent.com/94961333/163540038-8d3549eb-1f0f-4ad9-b34e-fb6c75290fa5.png)
 
+# API(swagger)
+https://noobpro.shop/api
+
+# ERD
+![Copy_of_Untitled_Diagram_(1)](https://user-images.githubusercontent.com/94961333/163540594-855fd9f0-1cd6-4cdb-8088-554057289838.png)
+
+# troublehooting

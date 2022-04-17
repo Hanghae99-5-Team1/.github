@@ -102,5 +102,3 @@ https://noobpro.shop/api
 
 </div>
 </details>
-
-# troubleShooting

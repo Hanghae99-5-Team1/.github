@@ -103,4 +103,4 @@ https://noobpro.shop/api
 </div>
 </details>
 
-# troublehooting
+# troubleShooting
